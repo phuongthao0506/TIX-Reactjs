@@ -1,0 +1,2 @@
+export const GET_BOOKING_MOVIE  ='GET_BOOKING_MOVIE'
+export const BOOKING  ='BOOKING'
